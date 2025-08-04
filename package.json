@@ -1,0 +1,20 @@
+{
+  "name": "keh_portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio retravaillé",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenzaElHarrif/KEH_PORTFOLIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenzaElHarrif/KEH_PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/KenzaElHarrif/KEH_PORTFOLIO#readme"
+}
